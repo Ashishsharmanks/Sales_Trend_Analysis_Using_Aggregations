@@ -1,1 +1,1 @@
-# Task-6-Sales_Trend_Analysis_Using_Aggregations
+This is Online sales data downloaded from Kaggle.com where some analysis is done using SQL
